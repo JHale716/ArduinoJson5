@@ -15,7 +15,7 @@ To execute, from your terminal client of choice:
 cd into you sketchbook libraries folder.
 
 From there:
-  $ git clone https://github.com/JHale716/ArduinoJson5.git ArduinoJson-v5.13.5
+  $ git clone https://github.com/JHale716/ArduinoJson5.git ArduinoJson-v5.13.5 
 
 This will place the repo and the ArduinoJson-v5.13.5.h file for ArduinoJson5 into this folder.
 
